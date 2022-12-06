@@ -1,2 +1,2 @@
 #!/bin/bas
-htr "A" "Z" | tr "c" "e"
+tr Ac Ze
